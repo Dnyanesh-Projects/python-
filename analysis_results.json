@@ -1,0 +1,21 @@
+{
+    "valid_points_per_type": {
+        "restaurant": 3,
+        "hotel": 3,
+        "cafe": 2
+    },
+    "average_ratings_per_type": {
+        "cafe": 4.6,
+        "hotel": 3.4,
+        "restaurant": 4.1000000000000005
+    },
+    "max_reviews_location": {
+        "id": "loc_07",
+        "latitude": 64.0522,
+        "longitude": -108.233,
+        "type": "hotel",
+        "rating": 2.0,
+        "reviews": 900
+    },
+    "incomplete_data": []
+}
